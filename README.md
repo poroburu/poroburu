@@ -34,7 +34,7 @@ I'm @poroburu, where blockchain technology meets community and philosophy. Here'
 
 ## 🌍 Social & Professional Links
 
-- **GitHub**: [poroburu.github.io](poroburu.github.io)
+- **GitHub**: [https://github.com/poroburu](https://github.com/poroburu)
 - **Twitter**: [@poroburu](twitter.com/poroburu)
 - **Personal Site**: [poroburu.com](poroburu.com)
 
