@@ -4,9 +4,9 @@ Systems and protocol-adjacent engineering. Production validator ops, funded prot
 
 Looking for systems / infra work with visible ownership.
 
-## Status
+## Status (honest)
 
-**Validator ops, 2022–2025.** Production Cosmos validators: Akash, Jackal, Juno (Neta DAO); Passage, Nomic (direct). The job was chain upgrades and emergency maintenance, not uptime theater.
+**Validator ops, 2022–2025.** Production Cosmos validators: Akash, Jackal, Juno (Neta DAO); Passage, Nomic (direct). The job was chain upgrades and emergency maintenance.
 
 **ic-cosmos — DFINITY grant, 2025, beta.** Port of ic-solana toward Cosmos: RPC canister, threshold ECDSA, Cosmos Hub sign/send. Tagged `v0.1.0-beta`. Not production-ready; the production milestone was not finished. No public URL until the repo is public.
 
@@ -14,7 +14,7 @@ Looking for systems / infra work with visible ownership.
 
 **openKMS — Colosseum prototype.** YubiHSM2-backed signer for Cosmos and Solana, deny-by-default policy, Raspberry Pi, pay.sh integration. Prototype; supporting repos are private.
 
-**Currently.** Solo Hummingbot lab (validation, not a team product): [txline-demo](https://github.com/poroburu/txline-demo), [txline-strategies](https://github.com/poroburu/txline-strategies), [txline-gateway](https://github.com/poroburu/txline-gateway).
+**Currently.** Solo Hummingbot lab (validation, not a team product). Public code when it exists: [txline-strategies](https://github.com/poroburu/txline-strategies), [txline-gateway](https://github.com/poroburu/txline-gateway). Do not link empty demo repos.
 
 ## Pin
 
