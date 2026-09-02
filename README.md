@@ -4,7 +4,7 @@ Systems and protocol-adjacent engineering. Production validator ops, funded prot
 
 Looking for systems / infra work with visible ownership.
 
-## Status (honest)
+## Status
 
 **Validator ops, 2022–2025.** Production Cosmos validators: Akash, Jackal, Juno (Neta DAO); Passage, Nomic (direct). The job was chain upgrades and emergency maintenance, not uptime theater.
 
