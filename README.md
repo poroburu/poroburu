@@ -18,4 +18,4 @@ Looking for systems / infra work with visible ownership.
 
 ## Pin
 
-Start at **kparser2**. Add ic-cosmos to pins only when it is public.
+Start at **kparser2**. Add ic-cosmos to pins only when it is public. Unpin kparser (v1), pumpdotfunosmo, and kpacket from the profile UI — they are pre-grant.
