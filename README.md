@@ -1,64 +1,21 @@
+# poroburu
 
----
+Systems and protocol-adjacent engineering. Production validator ops, funded protocol work to beta, a hackathon custody prototype, and a public packet pipeline.
 
-# Poroburu - Blockchain Innovator, Validator & Developer Advocate  
+Looking for systems / infra work with visible ownership.
 
-**Welcome to my GitHub Universe! 🌌**  
+## Status (honest)
 
-I'm @poroburu, a passionate blockchain innovator, community leader, and software engineer with a keen interest in decentralized technologies and their societal impacts. Here’s a glimpse of my journey:  
+**Validator ops, 2022–2025.** Production Cosmos validators: Akash, Jackal, Juno (Neta DAO); Passage, Nomic (direct). The job was chain upgrades and emergency maintenance, not uptime theater.
 
----
+**ic-cosmos — DFINITY grant, 2025, beta.** Port of ic-solana toward Cosmos: RPC canister, threshold ECDSA, Cosmos Hub sign/send. Tagged `v0.1.0-beta`. Not production-ready; the production milestone was not finished. No public URL until the repo is public.
 
-## 🚀 **Blockchain & Cosmos Ecosystem**  
+**[kparser2](https://github.com/poroburu/kparser2) — public RC (`v0.1.0-rc.2`).** Packet-native FFXI telemetry: C++ capture → ZMQ → F# decoders → .NET 8 CLI/WPF. Fixture-tested. Best two-minute read on this account. Not a general product release.
 
-### **Validator & Governance Contributions**  
-- **Validator for 6+ Networks**: Actively supporting the Cosmos ecosystem by ensuring network security and driving governance.  
-- **Juno Network**: Elected delegate for the Development Department (2024), contributing to governance frameworks, drafting policy documents, and advocating for transparency.  
-- **DAO Contributions**:  
-  - **Neta DAO**: Lead of the Validator subDAO, focusing on community-driven decision-making and technical advisory.  
-  - **1337 Society**: Engaged in peer-to-peer support, co-working initiatives, and retroactive rewards.  
+**openKMS — Colosseum prototype.** YubiHSM2-backed signer for Cosmos and Solana, deny-by-default policy, Raspberry Pi, pay.sh integration. Prototype; supporting repos are private.
 
-### **Tools & Innovations**  
-- **[pumpfunosmo](link)**: Bridging tokens from Solana to Osmosis to enhance liquidity and cross-chain interoperability.  
-- **kparser/kpacket**: Middleware and tools for data integration in MMORPG ecosystems.  
+**Currently.** Solo Hummingbot lab (validation, not a team product): [txline-demo](https://github.com/poroburu/txline-demo), [txline-strategies](https://github.com/poroburu/txline-strategies), [txline-gateway](https://github.com/poroburu/txline-gateway).
 
----
+## Pin
 
-## 🗣️ **Community Engagement & Philosophy**  
-
-- **Community Building**: Advocate for growth strategies, community dynamics, and transparency within Web3 spaces.  
-- **Coining Reason**: Exploring the philosophical implications of blockchain and decentralized technologies.  
-- **Education**: Former Teaching Assistant at York University, supporting students in computational and programming courses.  
-
----
-
-## 💻 **Technical Expertise**  
-
-### **Development Skills**  
-- **Languages**: Rust, React, F#, C#, .NET, CosmWasm, Motoko.  
-- **Blockchain Frameworks**: CosmWasm, Akash, Nomic, ICP.  
-- **Interests**: AI integration, smart contract development, and decentralized applications.  
-
-### **Notable Projects**  
-- **kparser**: A tool for parsing FFXI chat logs and integrating real-time data using Lua and .NET.  
-- **kpacket**: Enhanced middleware for MMORPGs.  
-
----
-
-## 🌟 **Social & Professional Links**  
-
-- **GitHub**: [github.com/poroburu](https://github.com/poroburu)  
-- **X (Twitter)**: [@poroburu](https://twitter.com/poroburu)  
-- **Personal Site**: [poroburu.com](https://poroburu.com)  
-
----
-
-## 📊 **GitHub Stats**  
-
-![Poroburu's GitHub stats](https://github-readme-stats.vercel.app/api?username=poroburu&show_icons=true&theme=radical)  
-
----
-
-Feel free to explore my repositories or connect with me for collaboration. Whether it’s tech, blockchain, or community building, I’m always open to a conversation!  
-
----
+Start at **kparser2**. Add ic-cosmos to pins only when it is public.
