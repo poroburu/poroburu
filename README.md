@@ -6,7 +6,7 @@ Open to systems and infrastructure roles.
 
 ## Selected work
 
-**Validator ops, 2022–2025.** Production Cosmos validator operations: Akash, Jackal, Juno, AtomOne (Neta DAO); Passage, Nomic (direct). Signing keys off-host (TMKMS + YubiHSM2). Homelab as a production datacenter: bonded WAN across multiple ISPs (OpenMPTCProuter on a mini PC) and UPS. On-call with the validator community and core teams.
+**Validator ops, 2022–2025.** Production Cosmos validators: Akash, Jackal, Juno, AtomOne (Neta DAO); Passage, Nomic (direct). Signing keys off-host (TMKMS + YubiHSM2). Homelab as a production datacenter: bonded WAN across multiple ISPs (OpenMPTCProuter on a mini PC) and UPS. On-call with the validator community and core teams.
 
 **[ic-cosmos](https://github.com/poroburu/ic-cosmos)** — DFINITY grant, 2025. Rust port of ic-solana toward Cosmos: RPC canister, threshold ECDSA, Cosmos Hub sign and send. Tagged [`v0.1.0-beta`](https://github.com/poroburu/ic-cosmos/releases/tag/v0.1.0-beta).
 
