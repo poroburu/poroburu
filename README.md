@@ -1,21 +1,17 @@
-# poroburu
+# Marlin Lachance
 
-Systems and protocol-adjacent engineering. Production validator ops, funded protocol work to beta, a hackathon custody prototype, and a public packet pipeline.
+Systems and protocol-adjacent engineering. Production Cosmos validator operations, a DFINITY-funded ICP↔Cosmos gateway, a Colosseum HSM-signing prototype, and a public packet-native telemetry pipeline.
 
-Looking for systems / infra work with visible ownership.
+Open to systems and infrastructure roles.
 
-## Status (honest)
+## Selected work
 
-**Validator ops, 2022–2025.** Production Cosmos validators: Akash, Jackal, Juno (Neta DAO); Passage, Nomic (direct). The job was chain upgrades and emergency maintenance.
+**Validator ops, 2022–2025.** Production Cosmos validators: Akash, Jackal, Juno (Neta DAO); Passage, Nomic (direct). Chain upgrades and emergency maintenance.
 
-**ic-cosmos — DFINITY grant, 2025, beta.** Port of ic-solana toward Cosmos: RPC canister, threshold ECDSA, Cosmos Hub sign/send. Tagged `v0.1.0-beta`. Not production-ready; the production milestone was not finished. No public URL until the repo is public.
+**ic-cosmos — DFINITY grant, 2025.** Port of ic-solana toward Cosmos: RPC canister, threshold ECDSA, Cosmos Hub sign and send. Tagged `v0.1.0-beta`.
 
-**[kparser2](https://github.com/poroburu/kparser2) — public RC (`v0.1.0-rc.2`).** Packet-native FFXI telemetry: C++ capture → ZMQ → F# decoders → .NET 8 CLI/WPF. Fixture-tested. Best two-minute read on this account. Not a general product release.
+**[kparser2](https://github.com/poroburu/kparser2)** — packet-native FFXI telemetry: C++ capture → ZMQ → F# decoders → .NET 8 CLI/WPF. Public release candidate `v0.1.0-rc.2`.
 
-**openKMS — Colosseum prototype.** YubiHSM2-backed signer for Cosmos and Solana, deny-by-default policy, Raspberry Pi, pay.sh integration. Prototype; supporting repos are private.
+**openKMS — Colosseum.** YubiHSM2-backed signer for Cosmos and Solana, deny-by-default policy on a Raspberry Pi, pay.sh integration.
 
-**Currently.** Solo Hummingbot lab (validation, not a team product). Public code when it exists: [txline-strategies](https://github.com/poroburu/txline-strategies), [txline-gateway](https://github.com/poroburu/txline-gateway). Do not link empty demo repos.
-
-## Pin
-
-Start at **kparser2**. Add ic-cosmos to pins only when it is public. Unpin kparser (v1), pumpdotfunosmo, and kpacket from the profile UI — they are pre-grant.
+**Hummingbot lab.** Solo experiments this school year: [txline-strategies](https://github.com/poroburu/txline-strategies), [txline-gateway](https://github.com/poroburu/txline-gateway).
