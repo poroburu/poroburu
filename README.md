@@ -10,8 +10,8 @@ Open to systems and infrastructure roles.
 
 **[ic-cosmos](https://github.com/poroburu/ic-cosmos)** — DFINITY grant, 2025. Rust port of ic-solana toward Cosmos: RPC canister, threshold ECDSA, Cosmos Hub sign and send. Tagged [`v0.1.0-beta`](https://github.com/poroburu/ic-cosmos/releases/tag/v0.1.0-beta).
 
-**[kparser2](https://github.com/poroburu/kparser2)** — MMO analytics: C++ capture → ZMQ → F# decoders → .NET 8 CLI/WPF.
+**[kparser2](https://github.com/poroburu/kparser2)** — MMO analytics: C++ capture → ZMQ → F# decoders → .NET 8 CLI/WPF. Public RC; a proper release is the school-year deliverable on this account.
 
-**openKMS — Colosseum.** YubiHSM2-backed signer for on-chain agents on Cosmos and Solana, the same remote-HSM pattern as the validators; deny-by-default policy engine on a Raspberry Pi; pay.sh intercepts x402 requests from an agent to the signing provider.
+**openKMS — Colosseum.** YubiHSM2-backed signer for on-chain agents on Cosmos and Solana, the same remote-HSM pattern as the validators; deny-by-default policy engine on a Raspberry Pi; pay.sh intercepts x402 requests from an agent to the signing provider. Prototype.
 
-**Hummingbot lab.** Solo experiments this school year: [txline-strategies](https://github.com/poroburu/txline-strategies), [txline-gateway](https://github.com/poroburu/txline-gateway).
+**This year.** Releasing kparser2. Also building quant strategies — Hummingbot against prediction-market plumbing is a lab, not a pin.
