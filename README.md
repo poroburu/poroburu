@@ -14,4 +14,4 @@ Open to systems and infrastructure roles.
 
 **openKMS — Colosseum.** YubiHSM2-backed signer for on-chain agents on Cosmos and Solana, the same remote-HSM pattern as the validators; deny-by-default policy engine on a Raspberry Pi; pay.sh intercepts x402 requests from an agent to the signing provider. Prototype.
 
-**This year.** Releasing kparser2. Also building quant strategies — Hummingbot against prediction-market plumbing is a lab, not a pin.
+**[porotoss](https://github.com/poroburu/porotoss)** — A StarCraft II bot in F# for the AI Arena ladder, and a working lab for my approach to agentic engineering: give agents bounded changes, ground strategy in replay data, and keep proposed edits only when they improve a fixed match score. Replays, traces, and regression checks make each iteration inspectable.
