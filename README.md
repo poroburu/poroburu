@@ -14,4 +14,4 @@ Open to systems and infrastructure roles.
 
 **openKMS — Colosseum.** YubiHSM2-backed signer for on-chain agents on Cosmos and Solana, the same remote-HSM pattern as the validators; deny-by-default policy engine on a Raspberry Pi; pay.sh intercepts x402 requests from an agent to the signing provider. Prototype.
 
-**[porotoss](https://github.com/poroburu/porotoss)** — A StarCraft II bot in F# for the AI Arena ladder, and a working lab for my approach to agentic engineering. An isolated decision policy, replay analysis, and parallel match runs give agents the context and feedback to propose bounded changes. A fixed match score decides which edits to keep; replays, traces, and regression checks make results reviewable. The payoff: faster experiments with measurable progress and evidence behind each accepted change.
+**[porotoss](https://github.com/poroburu/porotoss)** — StarCraft II as a lab for agentic engineering: AI Arena replay workloads inform meta analysis; homelab wargames test matchups and train micro. Bounded agent changes and measured feedback drive iteration toward better battle predictions, initiative, and supply/economy advantages.
