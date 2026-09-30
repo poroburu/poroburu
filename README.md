@@ -1,6 +1,6 @@
 # Poroburu
 
-Systems and protocol-adjacent engineering. Production Cosmos validator operations, a DFINITY-funded ICP↔Cosmos gateway, an HSM-signing prototype for on-chain agents, and a public MMO analytics packet pipeline.
+Systems and protocol-interop engineering. Production Cosmos validator operations, a DFINITY-funded ICP↔Cosmos gateway, an HSM-signing prototype for on-chain agents, and a public MMO analytics packet pipeline.
 
 Open to systems and infrastructure roles.
 
